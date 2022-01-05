@@ -1,0 +1,3 @@
+[submodule "elftoolchain"]
+	path = elftoolchain
+	url = https://github.com/elftoolchain/elftoolchain.git
