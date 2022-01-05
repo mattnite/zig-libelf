@@ -1,0 +1,6 @@
+.gyro
+deps.zig
+gyro.lock
+gyro.zzz
+zig-cache
+zig-out
